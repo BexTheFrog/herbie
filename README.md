@@ -1,4 +1,4 @@
-# herbie
+# EBBIE
 
 A new Flutter project.
 
